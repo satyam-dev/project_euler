@@ -1,7 +1,7 @@
 # Project Euler
 This repository is with reference to the #ProjectEuler100 challenge. I'll be solving 100 mathematical problems provided in https://projecteuler.net/
 
-## Inspired from - 
+## Inspiration - 
 https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/
 
 ## My current progress - 
